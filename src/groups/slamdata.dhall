@@ -88,7 +88,7 @@ in  { aff =
         , "web-uievents"
         ]
         "https://github.com/slamdata/purescript-halogen.git"
-        "v4.0.0"
+        "v5.0.0-rc.4"
     , halogen-vdom =
         mkPackage
         [ "bifunctors"
